@@ -48,6 +48,7 @@ form input {
     padding: 10px;
     border-radius: 15px; 
     border: 1px solid #ddd; 
+    width: auto;
 }
 
 

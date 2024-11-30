@@ -1,9 +1,9 @@
 // No entiendo muy bien esto del DOM para obtener los datos del formulario me costo hacer esto xdddd 
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('form');
-    const nombreInput = document.getElementById('Nombre del michi');
-    const edadInput = document.getElementById('Edad del michi');
-    const colorInput = document.getElementById('Color del michi');
+    const nombreInput = document.getElementById('nombre_del_michi');
+    const edadInput = document.getElementById('edad_del_michi');
+    const colorInput = document.getElementById('color_del_michi');
     const tableBody = document.querySelector('#table tbody');
 
     let items = [];
